@@ -1,6 +1,6 @@
 {
-  "id": "slug article",
-  "name": "Slug Article",
+  "id": "slug category",
+  "name": "Slug Category",
   "srcdoc": "./index.html",
   "fieldTypes": ["Symbol"]
 }
